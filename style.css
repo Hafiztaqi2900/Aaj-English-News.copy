@@ -9,6 +9,10 @@
     font-family: 'Ubuntu', sans-serif;
 
 }
+.span{
+    color: red;
+    text-decoration:underline solid black;
+}
 
 
 div {}
@@ -26,7 +30,9 @@ div {}
 }
 
 .container2 {}
-
+.first1{
+    font-family: sans-serif;
+}
 table {
     border-collapse: collapse;
     margin-top: 20px;
